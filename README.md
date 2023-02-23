@@ -4,11 +4,11 @@ home.html:
 
 Este é um código HTML que contém elementos para construir a estrutura visual de uma página da web, bem como alguns links para folhas de estilo e scripts JavaScript externos.
 
-Na seção <head>, há meta informações como a codificação do documento, o título da página, o link para a folha de estilo externa e o ícone da página. Além disso, há links para folhas de estilo do Bootstrap e do OwlCarousel, que são bibliotecas de estilo prontas para uso.
+Na seção head, há meta informações como a codificação do documento, o título da página, o link para a folha de estilo externa e o ícone da página. Além disso, há links para folhas de estilo do Bootstrap e do OwlCarousel, que são bibliotecas de estilo prontas para uso.
 
-Dentro da seção <body>, há um cabeçalho (<header>) que contém um logo e um menu dropdown para selecionar projetos. Há também uma barra de navegação (<nav>) que contém links para diferentes seções da página.
+Dentro da seção body, há um cabeçalho (header) que contém um logo e um menu dropdown para selecionar projetos. Há também uma barra de navegação (nav) que contém links para diferentes seções da página.
 
-Na seção principal (<main>), há um banner com uma mensagem de boas-vindas, uma imagem e um botão de link para uma das seções abaixo. Há também um carrossel de imagens usando a biblioteca OwlCarousel.
+Na seção principal (main), há um banner com uma mensagem de boas-vindas, uma imagem e um botão de link para uma das seções abaixo. Há também um carrossel de imagens usando a biblioteca OwlCarousel.
 
 Em seguida, há várias seções com informações sobre diferentes tecnologias web, cada uma com um título, um texto descritivo e uma imagem. Cada seção é identificada por um ID exclusivo que pode ser usado como um link de navegação.
 
